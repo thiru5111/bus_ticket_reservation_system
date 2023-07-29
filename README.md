@@ -6,5 +6,5 @@ in 2 different databases and with the help of java and jdbc, information from da
 and used by the travellers for booking their tickets.
 
 Future plan:
-it is a simple console application that deals with databases for ticket reservation process
+it is a simple console application that deals with databases for ticket reservation process,as of now there are 4 features in this system 
 in future many features will be added.
